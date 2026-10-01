@@ -8,11 +8,14 @@
    - Pressionar `CTRL+P`
    - Digitar `git: clone` e pressionar `ENTER`
    - Copiar a URL `https://github.com/infoweb-logica/2026-pratica-de-desenvolvimento-em-equipe/` e pressionar `ENTER`
-3. Configurar nome e email github
+3. Abrir o terminal e configurar nome e email github
+   - Pressionar `CTRL+SHIFT+'`
+   - Digitar `git config user.name "NOME"` e pressionar `ENTER`
+   - Digitar `git config user.email "EMAIL"` e pressionar `ENTER`
 4. Definir qual tarefa irá fazer
 5. Atualizar o README.md com nome e tarefa
 6. Programar a tarefa
-7. Guardar alterações no git locamente `git commit`
+7. Guardar alterações no git locamente
 8. **Professor** publicar no github
 9. Apagar pasta com o código
 
